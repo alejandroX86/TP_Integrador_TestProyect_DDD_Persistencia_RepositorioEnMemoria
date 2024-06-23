@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject_TP_DDD_Persistencia_RepositorioEnMemoria", "TestProject_TP_DDD_Persistencia_RepositorioEnMemoria.csproj", "{C1151C2C-D3F4-4258-BD45-BD1A4C369C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistenciaDatos_TP_DDD_RepositorioEnMemoria", "..\PersistenciaDatos_TP_DDD_RepositorioEnMemoria\PersistenciaDatos_TP_DDD_RepositorioEnMemoria.csproj", "{61262A19-1B53-4AB0-BF6A-96C70C3D45AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1151C2C-D3F4-4258-BD45-BD1A4C369C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1151C2C-D3F4-4258-BD45-BD1A4C369C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1151C2C-D3F4-4258-BD45-BD1A4C369C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1151C2C-D3F4-4258-BD45-BD1A4C369C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61262A19-1B53-4AB0-BF6A-96C70C3D45AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61262A19-1B53-4AB0-BF6A-96C70C3D45AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61262A19-1B53-4AB0-BF6A-96C70C3D45AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61262A19-1B53-4AB0-BF6A-96C70C3D45AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C262AF7-2891-49CF-8920-3F9E329B4CA8}
+	EndGlobalSection
+EndGlobal
